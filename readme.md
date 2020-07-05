@@ -1,0 +1,1 @@
+Read mqqt fountain messages and persists in mongodb.
